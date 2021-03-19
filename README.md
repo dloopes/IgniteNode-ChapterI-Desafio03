@@ -1,4 +1,4 @@
-# Desafio 03 - Corrigindo o código :rocket: :purple_heart:
+#  Chapter I - Desafio 03: Corrigindo o código :rocket: :purple_heart:
 
 ## :dart: Objetivo
 
