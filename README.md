@@ -28,10 +28,10 @@ Corrigir o código da aplicação e fazer com que os testes voltem a passar.
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/Thifany-Nicastro/IgniteNode-Desafio03.git
+$ git clone https://github.com/Thifany-Nicastro/IgniteNode-ChapterI-Desafio03.git
 
 # Entre na pasta
-$ cd IgniteNode-Desafio03
+$ cd IgniteNode-ChapterI-Desafio03
 
 # Instale as dependências
 $ yarn ou yarn install
