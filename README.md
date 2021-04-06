@@ -1,6 +1,6 @@
-#  Chapter I - Desafio 03: Corrigindo o código :rocket: :purple_heart:
+#  Chapter I - Desafio 03: Corrigindo o código 
 
-## :dart: Objetivo
+## Objetivo
 
 Corrigir o código da aplicação e fazer com que os testes voltem a passar.
 
@@ -28,7 +28,7 @@ Corrigir o código da aplicação e fazer com que os testes voltem a passar.
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/Thifany-Nicastro/IgniteNode-ChapterI-Desafio03.git
+$ git clone git@github.com:dloopes/IgniteNode-ChapterI-Desafio03.git
 
 # Entre na pasta
 $ cd IgniteNode-ChapterI-Desafio03
